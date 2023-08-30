@@ -37,6 +37,7 @@ public class mainSteps {
 		System.out.println("User is on practice landing page");
 	}
 	
+	//step definition file
 	@When("User Signup into the application")
 	public void user_signup_into_the_application(List<String> data) {
 		System.out.println(data.get(0));

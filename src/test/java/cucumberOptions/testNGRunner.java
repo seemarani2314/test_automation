@@ -8,7 +8,7 @@ monochrome = true, tags = "@SmokeTest")
 public class testNGRunner extends AbstractTestNGCucumberTests{
 	
 }
-
+//comment
 //tags = "@SmokeTest and @RegressionTest"
 //tags = "@SmokeTest or @RegressionTest"
 //tags = "not @RegressionTest"
